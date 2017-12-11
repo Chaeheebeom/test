@@ -8,4 +8,10 @@ public class HelloWorld {
 		System.out.println("마스터작업중...");
 	}
 
+	
+	public int sum() {
+		return 3+5;
+		
+	}
+	
 }

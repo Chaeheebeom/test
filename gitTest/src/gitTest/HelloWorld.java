@@ -12,5 +12,8 @@ public class HelloWorld {
 		return 3+5;
 		
 	}
+	public int sub() {
+		return 5-3;
+	}
 	
 }
